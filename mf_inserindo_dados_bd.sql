@@ -7,4 +7,3 @@ INSERT INTO cadastro_new (nome, idade, data_nasc, cargo) VALUES ('Matheus da Roc
 INSERT INTO contatos (e_mail, celular, telefone_fixo, endereco) VALUES ('mathdhferreira@gmail.com', '1111111111', '333232323', 'Av São São');
 INSERT INTO contatos (nome, e_mail, celular, telefone_fixo, endereco) VALUES ('Matheus Ferreira','matheus.ferreira@gmail.com', '1111416111', '393235323', 'Av Dão São');
 
-
